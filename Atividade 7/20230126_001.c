@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-void selection_sort(int* vetor, int tamanho);
-
 int main()
 {
     int linha = 3, coluna = 5;
